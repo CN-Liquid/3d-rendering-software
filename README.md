@@ -1,4 +1,4 @@
 # 3d-rendering-software
 A simple 3d renderer
 # Project Members
-* Aakash Adhikari
+* [Aakash Adhikari][https://github.com/CN-Liquid]
